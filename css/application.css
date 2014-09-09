@@ -1,6 +1,7 @@
 .navbar, .navbar-default{
   background: #554C9C !important;
   border:none;
+  border-radius:0px;
 }
 .navbar a, .navbar-default a{
   color:#fff !important;
