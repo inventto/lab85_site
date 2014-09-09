@@ -1,0 +1,11 @@
+.navbar, .navbar-default{
+  background: #554C9C !important;
+  border:none;
+}
+.navbar a, .navbar-default a{
+  color:#fff !important;
+}
+.home1{
+  background:#493572;
+  padding:3%;
+}
